@@ -43,4 +43,4 @@ Original Paper: VinDr-Mammo: A large-scale benchmark dataset for computer-aided 
 
 PhysioNet License: PhysioNet Credentialed Health Data License 1.5.0
 
-*** I am still working on this project and trying to find the best method. I will upload the codes and the progress soon...***
+**I am still working on this project and trying to find the best method. I will upload the codes and the progress soon...**

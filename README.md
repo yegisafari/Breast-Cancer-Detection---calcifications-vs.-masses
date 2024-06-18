@@ -1,4 +1,4 @@
-*Project Summary*
+*Capstone Project*
 
 **VinDr-Mammo: A Benchmark Dataset for Computer-Aided Diagnosis in Mammography
 Objective:**
